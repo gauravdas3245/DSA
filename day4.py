@@ -1,0 +1,17 @@
+print("hello world")
+print("Gaurav Das")
+n=input("enter your name:")
+print("your name is:",n)
+x=int(input("enter a number:"))
+print("your number is:",x)
+e=int(input("enter a number:"))
+f=int(input("enter another number:"))
+print("sum of two number is:",e+f)
+
+
+n=int(input("enter a number"))
+e=int(input("enter another number"))
+print("addition of the two numbers is:",n+e)
+print("subsctraction of the two numbers is:",n-e)
+print("multiplication of the two numbers is:",n*e)
+print("division of the two numbers is:",n/e)
